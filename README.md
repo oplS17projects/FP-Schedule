@@ -6,7 +6,7 @@
 | 3 | Exploration 2     | [oplS17projects/FP3][FP3]| Sun Mar 26 2017 | PS7a
 | 4 | Project Proposal  | [oplS17projects/FP4][FP4]| Sun Apr 2 2017 | PS7b
 | L1 | Proposal Presentations | live in class | M/W/F Apr 3/5/7 2017 | 
-| 5 | First Milestone   | | Sun Apr 9 |
+| 5 | First Milestone   | | Sun Apr 9 | Exam 2 
 | 6 | Second Milestone  | | Sun Apr 16 | PS8
 | 7 |	Web Page          | [template][webt] | M/W/F Apr 24/26/28  | last week
 | L2 | Demonstrations    | live in 3rd floor Olsen lobby | M/W/F Apr 24/26/28 [schedule][projectindex] | of classes 
