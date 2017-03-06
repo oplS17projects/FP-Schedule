@@ -8,8 +8,8 @@
 | L1 | Proposal Presentations | live in class | M/W/F Apr 3/5/7 2017 | 
 | 5 | First Milestone   | | Sun Apr 9 |
 | 6 | Second Milestone  | | Sun Apr 16 | PS8
-| 7 |	Web Page          | [template][webt] | M/W/F Apr 24/26/28  |
-| L2 | Demonstrations    | live in 3rd floor Olsen lobby | M/W/F Apr 24/26/28 [schedule][projectindex] |
+| 7 |	Web Page          | [template][webt] | M/W/F Apr 24/26/28  | last week
+| L2 | Demonstrations    | live in 3rd floor Olsen lobby | M/W/F Apr 24/26/28 [schedule][projectindex] | of classes 
 | 8 | Final Code & Doc Turn-In | | Sun Apr 30 |
 
 # Make an Interesting and Good Project
