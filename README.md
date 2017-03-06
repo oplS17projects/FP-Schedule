@@ -30,7 +30,7 @@ Things that will make for a good final project:
 6. A live demonstration of your work.
 7. A writeup that documents your accomplishments.
 
-# Scoring and Grading
+# Grading
 * For a project assignment to receive a grade, all previous assignments must be submitted and received a grade.
 * All assignments must be done in order.
 * Each Assignment has a point value, shown below. 
@@ -41,8 +41,8 @@ Things that will make for a good final project:
 | FP | Assignment | Points |
 |:---:|:---|:---:|
 | 1 | Exploration 1   | 2 |
-| 2 | Exploration 2   | 2 |
-| 3 | Team Declaration | 1 |
+| 2 | Team Declaration   | 1 |
+| 3 | Exploration 2 | 2 |
 | 4 | Project Proposal | 2 |
 | L1 | Proposal Presentations | 2 |
 | 5 | First Milestone | 2 |
