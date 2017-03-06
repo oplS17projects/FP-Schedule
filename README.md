@@ -36,7 +36,7 @@ Things that will make for a good final project:
 * Each Assignment has a point value, shown below. 
 * _Proposal Presentations_ and _Demonstrations_ are _live presentations_
   * There is no opportunity to re-submit or make up live presentations
-  * Live presentations are not required to advance to subsequent assignments
+  * Live presentations (L1 and L2) are not required to advance to subsequent assignments. In other words, you should continue with project work if you miss these, even though you will have then lost the points for them.
 
 | FP | Assignment | Points |
 |:---:|:---|:---:|
