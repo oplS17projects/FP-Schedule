@@ -12,6 +12,24 @@
 | L2 | Demonstrations    | live in 3rd floor Olsen lobby | M/W/F Apr 24/26/28 [schedule][projectindex] |
 | 8 | Final Code & Doc Turn-In | | Sun Apr 30 |
 
+# Make an Interesting and Good Project
+Things that will make for a good final project:
+
+1. A topic in which you are personally interested.
+2. A project that makes connections to the world outside, using libraries. (You will get experience doing this in [FP1] and [FP3]).
+3. Explicit use of course material your implementation; for example:
+  * procedural abstraction (constructors and selectors)
+  * recursion (iterative or recursive processes)
+  * higher-order functional approaches
+    * map / filter / fold
+    * dynamic construction of procedural objects (use of `lambda` as code is running); creating, returning, storing, and using procedures   
+  * object-oriented abstraction (encapsulating data into closures, with message-passing to perform operations on data enclosed in those objects)
+  * minimal or non-existent use of imperative approaches (e.g., `set!` should only be used in the context of OO closures, or in keeping track of a quite minimal number of global objects)
+4. Solid teamwork -- both partners contributing meaningfully to the project, and in a way that is documented.
+5. Good use of Github to show steady progress from outset to conclusion.
+6. A live demonstration of your work.
+7. A writeup that documents your accomplishments.
+
 # Scoring and Grading
 * For a project assignment to receive a grade, all previous assignments must be submitted and received a grade.
 * All assignments must be done in order.
