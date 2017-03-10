@@ -38,20 +38,20 @@ Things that will make for a good final project:
   * There is no opportunity to re-submit or make up live presentations
   * Live presentations (L1 and L2) are not required to advance to subsequent assignments. In other words, you should continue with project work if you miss these, even though you will have then lost the points for them.
 
-| FP | Assignment | Points |
+| FP | Assignment | Points | 
 |:---:|:---|:---:|
-| 1 | Exploration 1   | 2 |
-| 2 | Team Declaration   | 1 |
-| 3 | Exploration 2 | 2 |
-| 4 | Project Proposal | 2 |
-| L1 | Proposal Presentations | 2 |
+| 1 | Exploration 1   | 3 |
+| 2 | Team Declaration   | 2 | 
+| 3 | Exploration 2 | 3 |
+| 4 | Project Proposal | 3 |
+| L1 | Proposal Presentations | 3 |
 | 5 | First Milestone | 2 |
 | 6 | Second Milestone  | 2 |
 | 7 | Web Page        | 3 |
 | L2 | Demonstrations | 3 |
 | 8 | Final Code Turn-In and Discussion | 6 |
-|   |                         Total| 25 |
-25 points total, so each point is worth 1/25th of the Project grade, which is 25% of the final grade
+|   |                         Total| 30 |
+30 points total, so each point is worth 1/30th of the Project grade, which is 30% of the final grade
 
 # Team Rules
 * Working individually will only be considered with an accommodation request from Disability Services 
