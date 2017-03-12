@@ -40,16 +40,16 @@ Things that will make for a good final project:
 
 | FP | Assignment | Points | 
 |:---:|:---|:---:|
-| 1 | Exploration 1   | 3 |
+| 1 | Exploration 1   | 2 |
 | 2 | Team Declaration   | 2 | 
-| 3 | Exploration 2 | 3 |
+| 3 | Exploration 2 | 2 |
 | 4 | Project Proposal | 3 |
 | L1 | Proposal Presentations | 3 |
 | 5 | First Milestone | 2 |
 | 6 | Second Milestone  | 2 |
 | 7 | Web Page        | 3 |
 | L2 | Demonstrations | 3 |
-| 8 | Final Code Turn-In and Discussion | 6 |
+| 8 | Final Code Turn-In and Discussion | 8 |
 |   |                         Total| 30 |
 30 points total, so each point is worth 1/30th of the Project grade, which is 30% of the final grade
 
