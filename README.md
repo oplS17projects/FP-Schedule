@@ -1,7 +1,15 @@
+<!-- Links -->
+[FP1]: https://github.com/oplS17projects/FP1
+[FP2]: https://github.com/oplS17projects/FP2
+[FP3]: https://github.com/oplS17projects/FP3
+[FP4]: https://github.com/oplS17projects/FP4-Proposal
+[webt]: https://github.com/oplS17projects/FP7-Webpage
+[projectindex]: http://www.cs.uml.edu/ecg/index.php/OPLspr17/Project
+
 # Schedule
-| FP | Assignment | Repo | Due on | Other happenings
-|:---:|:---|:---:|:---:|:---:|
-| 1 | Exploration 1     | [oplS17projects/FP1][FP1] | Sun Mar 12 2017 | PS6b
+| FP  | Assignment      | Repo | Due on | Other happenings
+|:---:|:----------------|:----:|:------:|:------------------:|
+| 1 | Exploration 1     | [oplS17projects/FP1][FP1]| Sun Mar 12 2017 | PS6b
 | 2 | Team Declaration  | [oplS17projects/FP2][FP2]| Sun Mar 19 2017 | spring break
 | 3 | Exploration 2     | [oplS17projects/FP3][FP3]| Sun Mar 26 2017 | PS7a
 | 4 | Project Proposal  | [oplS17projects/FP4][FP4]| Sun Apr 2 2017 | PS7b
@@ -57,11 +65,3 @@ Things that will make for a good final project:
 # Team Rules
 * Working individually will only be considered with an accommodation request from Disability Services 
 * Teams of more than two people require written (emailed) permission from the instructor
-
-<!-- Links -->
-[FP1]: https://github.com/oplS17projects/FP1
-[FP2]: https://github.com/oplS17projects/FP2
-[FP3]: https://github.com/oplS17projects/FP3
-[FP4]: https://github.com/oplS17projects/FP4-Proposal
-[webt]: https://github.com/oplS17projects/FP7-Webpage
-[projectindex]: http://www.cs.uml.edu/ecg/index.php/OPLspr17/Project
