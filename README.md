@@ -31,26 +31,27 @@ Things that will make for a good final project:
 7. A writeup that documents your accomplishments.
 
 # Grading
-* For a project assignment to receive a grade, all previous assignments must be submitted and received a grade.
-* All assignments must be done in order.
-* Each Assignment has a point value, shown below. 
-* _Proposal Presentations_ and _Demonstrations_ are _live presentations_
-  * There is no opportunity to re-submit or make up live presentations
-  * Live presentations (L1 and L2) are not required to advance to subsequent assignments. In other words, you should continue with project work if you miss these, even though you will have then lost the points for them.
+- For a project assignment to receive a grade, all previous assignments must be submitted and received a grade.
+- All assignments must be done in order.
+- Each Assignment has a point value, shown below. 
+- _Proposal Presentations_ and _Demonstrations_ are _live presentations_
+  - There is no opportunity to re-submit or make up live presentations
+  - Live presentations (L1 and L2) are not required to advance to subsequent assignments. In other words, you should continue with project work if you miss these, even though you will have then lost the points for them.
 
-| FP | Assignment | Points | 
-|:---:|:---|:---:|
-| 1 | Exploration 1   | 2 |
-| 2 | Team Declaration   | 2 | 
-| 3 | Exploration 2 | 2 |
-| 4 | Project Proposal | 3 |
-| L1 | Proposal Presentations | 3 |
-| 5 | First Milestone | 2 |
-| 6 | Second Milestone  | 2 |
-| 7 | Web Page        | 3 |
-| L2 | Demonstrations | 3 |
-| 8 | Final Code Turn-In and Discussion | 8 |
-|   |                         Total| 30 |
+| FP | Assignment                                      | Points |
+|:---|:------------------------------------------------|-------:|
+| 1  | Exploration 1                                   |      2 |
+| 2  | Team Declaration                                |      2 |
+| 3  | Exploration 2                                   |      2 |
+| 4  | Project Proposal                                |      3 |
+| L1 | Proposal Presentations                          |      3 |
+| 5  | First Milestone                                 |      2 |
+| 6  | Second Milestone                                |      2 |
+| 7  | Web Page                                        |      3 |
+| L2 | Demonstrations                                  |      3 |
+| 8  | Final Code Turn-In and Discussion               |      8 |
+|    |                                       **Total** | **30** |
+
 30 points total, so each point is worth 1/30th of the Project grade, which is 30% of the final grade
 
 # Team Rules
