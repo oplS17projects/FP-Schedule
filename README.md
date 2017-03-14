@@ -61,6 +61,6 @@ Things that will make for a good final project:
 [FP1]: https://github.com/oplS17projects/FP1
 [FP2]: https://github.com/oplS17projects/FP2
 [FP3]: https://github.com/oplS17projects/FP3
-[FP4]: https://github.com/oplS17projects/FP4-proposal
-[webt]: https://github.com/oplS17projects/FP7-webpage
+[FP4]: https://github.com/oplS17projects/FP4-Proposal
+[webt]: https://github.com/oplS17projects/FP7-Webpage
 [projectindex]: http://www.cs.uml.edu/ecg/index.php/OPLspr17/Project
