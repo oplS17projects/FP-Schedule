@@ -1,9 +1,9 @@
 <!-- Links -->
-[FP1]: https://github.com/oplS17projects/FP1/blob/master/README.md
-[FP2]: https://github.com/oplS17projects/FP2/blob/master/README.md
-[FP3]: https://github.com/oplS17projects/FP3/blob/master/README.md
-[FP4]: https://github.com/oplS17projects/FP4-Proposal/blob/master/README.md
-[webt]: https://github.com/oplS17projects/FP7-Webpage/blob/master/README.md
+[FP1]: https://github.com/oplS17projects/FP1
+[FP2]: https://github.com/oplS17projects/FP2
+[FP3]: https://github.com/oplS17projects/FP3
+[FP4]: https://github.com/oplS17projects/FP4-Proposal
+[webt]: https://github.com/oplS17projects/FP7-Webpage
 [projectindex]: http://www.cs.uml.edu/ecg/index.php/OPLspr17/Project
 
 # Schedule
