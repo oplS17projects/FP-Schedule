@@ -15,8 +15,8 @@
 | 4 | Project Proposal  | [oplS17projects/FP4][FP4]| Sun Apr 2 2017 | PS7b; Exam 2
 | L1 | Proposal Presentations | live in class | M/W/F Apr 3/5/7 2017 | 
 | 5 | First Milestone   | | Sun Apr 9 | PS8
-| 6 | Second Milestone  | | Sun Apr 16 | 
-| 7 |	Web Page          | [template][webt] | M/W/F Apr 24/26/28  | last week
+| 6 | Second Milestone  | | Mon Apr 17 | 
+| 7 |	Final Report          | [template][webt] | M/W/F Apr 24/26/28  | last week
 | L2 | Demonstrations    | live in 3rd floor Olsen lobby | M/W/F Apr 24/26/28 [schedule][projectindex] | of classes 
 | 8 | Final Code & Doc Turn-In | | Sun Apr 30 |
 
@@ -55,7 +55,7 @@ Things that will make for a good final project:
 | L1 | Proposal Presentations                          |      3 |
 | 5  | First Milestone                                 |      2 |
 | 6  | Second Milestone                                |      2 |
-| 7  | Web Page                                        |      3 |
+| 7  | Final Report                                    |      3 |
 | L2 | Demonstrations                                  |      3 |
 | 8  | Final Code Turn-In and Discussion               |      8 |
 |    |                                       **Total** | **30** |
