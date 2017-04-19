@@ -14,8 +14,8 @@
 | 3 | Exploration 2     | [oplS17projects/FP3][FP3]| Sun Mar 26 2017 | PS7a
 | 4 | Project Proposal  | [oplS17projects/FP4][FP4]| Sun Apr 2 2017 | PS7b; Exam 2
 | L1 | Proposal Presentations | live in class | M/W/F Apr 3/5/7 2017 | 
-| 5 | First Milestone   | | Sun Apr 9 | PS8
-| 6 | Second Milestone  | | Mon Apr 17 | 
+| 5 | First Milestone   | partner 1 does it | Sun Apr 9 | PS8
+| 6 | Second Milestone  | partner 2 does it | Mon Apr 17 | 
 | 7 |	Final Report      | [oplS17projects/FP7][FP7] | M/W/F Apr 24/26/28  | last week
 | L2 | Demonstrations    | live in 3rd floor Olsen lobby | M/W/F Apr 24/26/28 [schedule][projectindex] | of classes 
 | 8 | Final Code & Doc Turn-In | | Sun Apr 30 |
