@@ -4,6 +4,7 @@
 [FP3]: https://github.com/oplS17projects/FP3
 [FP4]: https://github.com/oplS17projects/FP4-Proposal
 [FP7]: https://github.com/oplS17projects/FP7
+[FP8]: https://github.com/oplS17projects/FP8
 [projectindex]: http://www.cs.uml.edu/ecg/index.php/OPLspr17/Project
 
 # Schedule
