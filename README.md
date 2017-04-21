@@ -19,7 +19,7 @@
 | 6 | Second Milestone  | partner 2 does it | Mon Apr 17 | 
 | 7 |	Demo Report       | [oplS17projects/FP7][FP7] | M/W/F Apr 24/26/28  | last week
 | L2 | Demonstrations   | live in 3rd floor Olsen lobby | M/W/F Apr 24/26/28 [schedule][projectindex] | of classes 
-| 8 | Final Report      | [oplS17projects/FP7][FP8] | Sun Apr 30 |
+| 8 | Final Report      | [oplS17projects/FP8][FP8] | Sun Apr 30 |
 
 # Make an Interesting and Good Project
 Things that will make for a good final project:
