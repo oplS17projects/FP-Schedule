@@ -56,7 +56,7 @@ Things that will make for a good final project:
 | L1 | Proposal Presentations                          |      3 |
 | 5  | First Milestone                                 |      2 |
 | 6  | Second Milestone                                |      2 |
-| 7  | Final Report                                    |      3 |
+| 7  | Demo Report                                     |      3 |
 | L2 | Demonstrations                                  |      3 |
 | 8  | Final Code Turn-In and Discussion               |      8 |
 |    |                                       **Total** | **30** |
