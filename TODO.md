@@ -4,4 +4,4 @@
 * Don't let your sole job be "GUI monkey." It's quite difficult to strongly represent the ideas of the course if all you're doing is building the GUI.
 * Modify the FP8 example to identify which file has which code.
 * Show examples of poor use of set!
-* Make a point that using `append` in an iterative recursion is inefficient in time (lots of `cons`'ing -- way more than a recursive recursion)
+* Make point that using `append` in an iterative recursion is inefficient in time (lots of `cons`'ing -- way more than a recursive recursion), and that for building lists, _recursive recursion is more efficient_.
